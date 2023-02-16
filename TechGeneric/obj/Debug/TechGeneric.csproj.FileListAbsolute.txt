@@ -1,0 +1,22 @@
+C:\Users\Felipe Augusto\Pictures\VStudio\TechGeneric\bin\Debug\TechGeneric.exe.config
+C:\Users\Felipe Augusto\Pictures\VStudio\TechGeneric\bin\Debug\TechGeneric.exe
+C:\Users\Felipe Augusto\Pictures\VStudio\TechGeneric\bin\Debug\TechGeneric.pdb
+C:\Users\Felipe Augusto\Pictures\VStudio\TechGeneric\obj\Debug\TechGeneric.csproj.AssemblyReference.cache
+C:\Users\Felipe Augusto\Pictures\VStudio\TechGeneric\obj\Debug\TechGeneric.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felipe Augusto\Pictures\VStudio\TechGeneric\obj\Debug\TechGeneric.Form1.resources
+C:\Users\Felipe Augusto\Pictures\VStudio\TechGeneric\obj\Debug\TechGeneric.Properties.Resources.resources
+C:\Users\Felipe Augusto\Pictures\VStudio\TechGeneric\obj\Debug\TechGeneric.csproj.GenerateResource.cache
+C:\Users\Felipe Augusto\Pictures\VStudio\TechGeneric\obj\Debug\TechGeneric.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Augusto\Pictures\VStudio\TechGeneric\obj\Debug\TechGeneric.exe
+C:\Users\Felipe Augusto\Pictures\VStudio\TechGeneric\obj\Debug\TechGeneric.pdb
+C:\Users\FelipeDev\Documents\Aulas\Aulas\TechGeneric\bin\Debug\TechGeneric.exe.config
+C:\Users\FelipeDev\Documents\Aulas\Aulas\TechGeneric\bin\Debug\TechGeneric.exe
+C:\Users\FelipeDev\Documents\Aulas\Aulas\TechGeneric\bin\Debug\TechGeneric.pdb
+C:\Users\FelipeDev\Documents\Aulas\Aulas\TechGeneric\obj\Debug\TechGeneric.csproj.AssemblyReference.cache
+C:\Users\FelipeDev\Documents\Aulas\Aulas\TechGeneric\obj\Debug\TechGeneric.csproj.SuggestedBindingRedirects.cache
+C:\Users\FelipeDev\Documents\Aulas\Aulas\TechGeneric\obj\Debug\TechGeneric.Form1.resources
+C:\Users\FelipeDev\Documents\Aulas\Aulas\TechGeneric\obj\Debug\TechGeneric.Properties.Resources.resources
+C:\Users\FelipeDev\Documents\Aulas\Aulas\TechGeneric\obj\Debug\TechGeneric.csproj.GenerateResource.cache
+C:\Users\FelipeDev\Documents\Aulas\Aulas\TechGeneric\obj\Debug\TechGeneric.csproj.CoreCompileInputs.cache
+C:\Users\FelipeDev\Documents\Aulas\Aulas\TechGeneric\obj\Debug\TechGeneric.exe
+C:\Users\FelipeDev\Documents\Aulas\Aulas\TechGeneric\obj\Debug\TechGeneric.pdb
